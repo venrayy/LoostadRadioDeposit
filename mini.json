@@ -1,0 +1,16 @@
+{
+  "radio": {
+    "name": "Loostad Radio",
+    "url": "https://server-23.stream-server.nl:18476/;&type=mp3",
+    "cover": "https://i.imgur.com/LkmPNk3.png"
+  },
+  "social": {
+    "fb": "https://nl-nl.facebook.com/pages/category/Radio-Station/Loostad-Radio-1945652845669387/",
+    "tw": "https://twitter.com/hashtag/loostadradio",
+    "site": "loostadradio.nl",
+    "email": "info@loostadradio.nl",
+    "phone": "+31553032190",
+    "apk": "https://play.google.com/store/apps/details?id=com.actg.loostadradio",
+    "about":"Loostad Radio verzorgt programma's vanuit Apeldoorn. Het programma is gericht op de regio Veluwe. U hoort bij Loostad Radio muziek uit de jaren 80, 90, 00 en de hits van nu afgewisseld met informatie uit de regio Veluwe."
+  }
+}
