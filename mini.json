@@ -1,7 +1,7 @@
 {
   "radio": {
     "name": "Loostad Radio",
-    "url": "https://server-23.stream-server.nl:18476/;&type=mp3",
+    "url": "https://server-23.stream-server.nl:18476/stream/1/;?type=mp3",
     "cover": "https://i.imgur.com/11otG2r.png"
   },
   "social": {
