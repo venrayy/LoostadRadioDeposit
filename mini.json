@@ -1,16 +1,16 @@
 {
   "radio": {
-    "name": "Loostad Radio",
+    "name": "Samen1",
     "url": "https://server-23.stream-server.nl:18476/stream/1/;?type=mp3",
-    "cover": "https://i.imgur.com/11otG2r.png"
+    "cover": "https://samen1.nl/bestanden/uploads/472_LOGO_TEKST_SAMEN1-1.jpg"
   },
   "social": {
-    "fb": "https://nl-nl.facebook.com/pages/category/Radio-Station/Loostad-Radio-1945652845669387/",
-    "tw": "https://www.instagram.com/loostad_radio/",
-    "site": "http://www.loostadradio.nl",
+    "fb": "https://www.facebook.com/LokaleOmroepApeldoorn/",
+    "tw": "https://www.instagram.com/samen01/",
+    "site": "https://samen1.nl/",
     "email": "info@loostadradio.nl",
     "phone": "+31553032190",
     "apk": "https://play.google.com/store/apps/details?id=com.actg.loostadradio",
-    "about":"Vanuit het bruisend Stadscentrum van Apeldoorn luister je naar Loostad Radio. Waar je ook bent, thuis of op  je werk, of onderweg: Loostad Radio is er altijd voor jou. We zijn er dag en nacht, de klok rond via 1395 AM, stream en app. Voor Apeldoorn en de Veluwe. Dit is jouw gevoel: Loostad Radio"
+    "about":"Beste Gebruiker, Deze app word niet langer ondesteunt, om te blijven luisteren ga naar: https://samen1.nl/radio/"
   }
 }
